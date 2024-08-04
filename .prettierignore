@@ -1,0 +1,12 @@
+# Ignore Folders
+bin
+node_modules
+
+# Ignore all JSON files
+**/*.json
+
+# Ignore all test files
+# **/*.test.js
+
+# Ignore all eslint files
+*.mjs
